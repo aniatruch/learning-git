@@ -33,3 +33,4 @@ print(salads.keys())
 del salads["mamina"]
 print(salads.keys())
 print()
+print("Hello")
