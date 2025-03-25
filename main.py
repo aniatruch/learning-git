@@ -32,3 +32,4 @@ print(salads["owocowa"])
 print(salads.keys())
 del salads["mamina"]
 print(salads.keys())
+print()
